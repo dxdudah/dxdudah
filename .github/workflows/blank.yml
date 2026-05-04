@@ -23,7 +23,7 @@ jobs:
       - uses: dxdudah
         id: snake-gif
         with:
-          github_user_name: nomeUsuario #Seu usuario
+          github_user_name: dxdudah #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
