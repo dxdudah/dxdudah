@@ -1,18 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduarda+Santos;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/16/71/97/167197305535e2ccd4667770bf99f040.gif"  />
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduarda+Santos;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/__dxduda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -23,7 +19,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dxdudah/dxdudah/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/<dxdudah>/<dxdudah>/blob/output/github-contribution-grid-snake2.svg" />
 
 ###
 
