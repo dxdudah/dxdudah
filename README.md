@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/<dxdudah>/<dxdudah>/blob/output/github-contribution-grid-snake2.svg" />
+<img src="https://github.com/dxdudah/dxdudah/blob/output/github-contribution-grid-snake2.svg" />
 
 ###
 
